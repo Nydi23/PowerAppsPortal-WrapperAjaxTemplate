@@ -5,7 +5,7 @@ PowerApps Template to use save ajax
 1. Create new Web Template.
 2. Copy Content to Template.
 3. Call template in existing template by '{% include "Wrapper AJAX Template" %}'
-4. include in JS File *see example* 
+4. include in JS File *see examples/javascript.js* 
 
 ## Javascript Example
 ```JavaScript
