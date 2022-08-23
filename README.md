@@ -8,6 +8,7 @@ PowerApps Template to use save ajax
 4. include in JS File *see example* 
 
 ## Javascript Example
+```
 if (window.jQuery)
 {
     (function (webapi, $)
@@ -25,3 +26,4 @@ if (window.jQuery)
         }
     }(window.webapi = window.webapi || {}, jQuery));
 }
+```
